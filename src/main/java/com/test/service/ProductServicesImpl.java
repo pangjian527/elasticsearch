@@ -14,6 +14,6 @@ public class ProductServicesImpl implements ProductService{
     }
 
     public void query(String jsonObject) {
-        
+        System.out.println("develop add commit");
     }
 }
