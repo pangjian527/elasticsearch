@@ -12,4 +12,8 @@ public class ProductServicesImpl implements ProductService{
     public void remove(String id) {
 
     }
+
+    public void query(String jsonObject) {
+        
+    }
 }

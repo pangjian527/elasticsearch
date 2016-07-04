@@ -48,7 +48,6 @@ public class Test {
             System.out.println(clazz.getCanonicalName());
         }
 
-
         System.out.println("--------------------");
 
         /*
